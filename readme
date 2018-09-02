@@ -1,0 +1,4 @@
+第一步：启动node服务(前提是安装了node)
+$ npm install 先安装下载依赖包(进到server目录下运行该命令)
+$ node server.js 进到server目录下运行该命令
+启动成功后访问 http://localhost:8888
